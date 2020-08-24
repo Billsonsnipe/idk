@@ -1,0 +1,34 @@
+{
+  "application_id": "519338998791929866",
+  "name": "ZombsRoyale.io",
+  "icon_hash": "884bef241c78b0e86c41f74ec55f7984",
+  "branch_id": "519338998791929866",
+  "build_id": "747271640097882253",
+  "target_build_id": "747271640097882253",
+  "manifest_ids": [
+    "747271640081104956"
+  ],
+  "target_manifest_ids": [
+    "747271640081104956"
+  ],
+  "install_path": "C:\\Users\\Bill Zhan\\AppData\\Local\\DiscordGames\\ZombsRoyaleio",
+  "installed_size": 189587,
+  "launch_commands": {},
+  "launch_options": [
+    {
+      "name": "Zombs Royale",
+      "executable": "zombsroyale.exe",
+      "arguments": [],
+      "platforms": [
+        "win64"
+      ],
+      "working_dir": null
+    }
+  ],
+  "storage": null,
+  "state": {
+    "type": "complete"
+  },
+  "repairing": false,
+  "should_patch": true
+}
